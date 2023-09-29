@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380684599185",
+    "project_id": "raftl-app",
+    "storage_bucket": "raftl-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380684599185:android:b52eb9a3138881665ce430",
+        "android_client_info": {
+          "package_name": "com.example.raftl_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCSTMMzcvzi4qIrZYOfIue3tLxfK-aVpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
