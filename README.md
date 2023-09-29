@@ -1,16 +1,9 @@
-# raftl_app
+# RaftLabs
 
-A new Flutter project.
+App Link:
 
-## Getting Started
+[https://drive.google.com/file/d/1Eez9-72FoCGCBd8WCjCg_T8AlnV6Pz64/view?usp=sharing](https://drive.google.com/file/d/1Eez9-72FoCGCBd8WCjCg_T8AlnV6Pz64/view?usp=sharing)
 
-This project is a starting point for a Flutter application.
+Video Sample:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[https://drive.google.com/file/d/1LDSkgA7AR4nBe51G--pJgdD21VkEz12K/view?usp=sharing](https://drive.google.com/file/d/1LDSkgA7AR4nBe51G--pJgdD21VkEz12K/view?usp=sharing)
